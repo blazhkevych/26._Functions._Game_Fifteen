@@ -22,7 +22,6 @@ int main()
 	do
 	{
 		int emptyCellRow{ 0 }, emptyCellCol{ 0 };
-		cout << "Welcome to the game \"Fifteen\"!\n";
 
 		ShakeArr(arr);
 		PrintPlayingField(arr);
